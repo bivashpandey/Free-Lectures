@@ -1,0 +1,17 @@
+/* positioning and the syling of the footer */
+
+.footer {
+    position: relative;
+    margin-top: 12px;
+    height: 2.5rem;
+    text-align: center;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: gray;
+    font-family: sans-serif;
+}
+
+.love {
+    color: red;
+}
